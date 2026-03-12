@@ -7,60 +7,45 @@
 ![Vercel](https://img.shields.io/badge/Deploy-Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
 
-ERP System : Taragui Pintureria
+# ERP System: Taragui Pinturería
 
+An integrated **Enterprise Resource Planning (ERP)** solution designed to optimize business processes through a **robust, scalable, and automated architecture**. This project integrates a modern development ecosystem that ranges from **containerization to continuous deployment**.
 
-Una solución integral de Planificación de Recursos Empresariales (ERP) diseñada para optimizar procesos de negocio mediante una arquitectura robusta, escalable y automatizada. Este proyecto integra un ecosistema moderno de desarrollo que abarca desde la contenerización hasta el despliegue continuo.
+---
 
+# 🚀 Technology Stack
 
-.
+The project is structured with a **decoupled architecture** to ensure scalability:
 
+**Frontend:** React.js (Deployed on Vercel for high performance)  
+**Backend:** PHP (Efficient RESTful API for business logic)  
+**Database:** SQL (Relational design to ensure data integrity)  
+**Infrastructure:** Docker (Containerization of the development environment and services)  
+**AI Support:** Kilocode (AI agent used for code optimization and complex logic)
 
-🚀 Stack Tecnológico
-El proyecto se divide en una arquitectura desacoplada para garantizar escalabilidad:
+---
 
-Frontend: React.js (Desplegado en Vercel para alto rendimiento).
+# 🛠️ Architecture and DevOps
 
-Backend: PHP (API RESTful eficiente para lógica de negocio).
+This repository is not just code — it represents a **complete professional workflow**.
 
-Base de Datos: SQL (Diseño relacional para integridad de datos).
+## Automation and QA
 
-Infraestructura: Docker (Contenerización del entorno de desarrollo y servicios).
+**GitHub Actions:** Implementation of **Continuous Integration (CI) pipelines** that automatically run validations on every push or pull request.
 
-IA de Soporte: Kilocode (Agente IA utilizado para optimización de código y lógica compleja).
+**Playwright:** **End-to-End (E2E) testing suite** to ensure that critical workflows (**Login, Sales, Inventory**) function correctly across different browsers.
 
+---
 
-.
+# 💡 Key Features
 
+**Inventory Management:** Real-time stock control with alerts  
+**Sales Module:** Transaction processing and report generation  
+**Interactive Dashboard:** Visualization of key metrics using React  
+**Security:** Robust authentication and session management
 
+---
 
+# 👤 Author
 
-🛠️ Arquitectura y DevOps
-Este repositorio no es solo código, es un flujo de trabajo profesional completo:
-
-Automatización y QA
-GitHub Actions: Implementación de pipelines de Integración Continua (CI) que ejecutan validaciones automáticamente en cada push o pull request.
-
-Playwright: Suite de pruebas end-to-end (E2E) para garantizar que los flujos críticos (Login, Ventas, Inventario) funcionen perfectamente en diferentes navegadores.
-
-
-
-.
-
-
-
-
-💡 Características Principales
-Gestión de Inventario: Control de stock en tiempo real con alertas.
-
-Módulo de Ventas: Procesamiento de transacciones y generación de reportes.
-
-Dashboard Interactivo: Visualización de métricas clave mediante React.
-
-Seguridad: Autenticación robusta y manejo de sesiones.
-
-
-.
-
-👤 Autor
-Piero Pacella
+**Piero Pacella**
